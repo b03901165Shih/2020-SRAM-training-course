@@ -1,0 +1,6 @@
+ncverilog testfixture_fifo.v async_fifo_syn.v \
+/cad/cell_library/CBDK_TSMC40_Arm_f2.0/CIC/Verilog/sc9_cln40g_base_lvt.v \
+/cad/cell_library/CBDK_TSMC40_Arm_f2.0/CIC/Verilog/sc9_cln40g_base_rvt.v \
+/cad/cell_library/CBDK_TSMC40_Arm_f2.0/CIC/Verilog/sc9_cln40g_base_hvt.v \
+/cad/cell_library/CBDK_TSMC40_Arm_f2.0/CIC/Verilog/sc9_cln40g_base_rvt_udp.v \
++access+r +define+SDF +ncmaxdelays

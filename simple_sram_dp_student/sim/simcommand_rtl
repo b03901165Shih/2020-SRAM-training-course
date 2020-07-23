@@ -1,0 +1,1 @@
+ncverilog testfixture_sram.v sram_wrapper.v sram_dp_64x128/sram_dp_64x128.v +access+r +notimingchecks

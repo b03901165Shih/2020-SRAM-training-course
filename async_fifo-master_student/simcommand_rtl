@@ -1,0 +1,1 @@
+ncverilog testfixture_fifo.v async_fifo.v sync_r2w.v sync_w2r.v wptr_full.v fifo_2mem.v rptr_empty.v +access+r
